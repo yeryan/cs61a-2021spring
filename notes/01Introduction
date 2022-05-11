@@ -1,6 +1,6 @@
 echo "$HOME"		显示您的主目录的路径
 winpty python		运行python
-exit()，Ctrl-D           返回命令行
+exit()，Ctrl-D          返回命令行
 ls			列出了当前目录下的所有文件和文件夹
 cd			移动到另一个目录	cd ~/Desktop	cd Desktop
 cd ..			返回主目录
