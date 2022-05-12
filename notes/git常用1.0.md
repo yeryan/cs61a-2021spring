@@ -25,3 +25,11 @@ git branch -M main
 git push -u origin main
 
 git clone 粘贴地址				将fork的仓库同步到本地
+
+git branch -m master main
+
+git fetch origin
+
+git branch -u origin/main main
+
+git remote set-head origin -a
