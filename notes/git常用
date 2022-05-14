@@ -4,11 +4,9 @@ ssh -T git@github.com			试验配置是否成功
 
 git config --global user.name "用户名"
 
-<<<<<<< HEAD
 git config --global user.email "邮箱"	
-=======
+
 git config --global user.email "邮箱"
->>>>>>> dabd4df (final)
 
 git init					将本地文件夹变为git可管理的仓库
 
@@ -36,8 +34,4 @@ git fetch origin
 
 git branch -u origin/main main
 
-<<<<<<< HEAD
 git remote set-head origin -a
-=======
-git remote set-head origin -a
->>>>>>> dabd4df (final)
