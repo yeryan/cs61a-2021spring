@@ -1,4 +1,4 @@
-ssh-ketgen -t rsa -C "账号"             生成ssh密钥
+ssh-keygen             生成ssh密钥对
 
 ssh -T git@github.com               试验配置是否成功
 
