@@ -1,4 +1,10 @@
 # cs61a
-学渣自学记录
 
-lab00-01,homework01,project hog   -2021spring
+
+|lab|homework|discussion|project|
+|:--:|:--:|:--:|:--:|
+|*lab00*|*hw01*|    |*hog*
+|*lab01*|hw02|    |
+|lab02|
+
+
