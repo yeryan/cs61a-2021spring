@@ -16,4 +16,5 @@ This question demonstrates that it's possible to write recursive functions witho
 ```python
     result = min(list, key=func(lambda x: f(x)))
 ```
-
+##### [lab06 make_change change_machine](https://www.learncs.site/docs/curriculum-resource/cs61a/lab/lab06#q3-make-change)
+##### [hw05 Optional Questions](https://www.learncs.site/docs/curriculum-resource/cs61a/homework/hw06#optional-questions)
