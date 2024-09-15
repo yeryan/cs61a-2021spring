@@ -16,7 +16,7 @@ git commit -m "提交日志"
 
 git remote add origin 粘贴地址              与仓库进行连接
 
-git push -u origin master               上传
+git push -u origin master/main               上传
 
 git pull --rebase origin master             内容合并
 
@@ -24,7 +24,7 @@ git remote add origin 粘贴地址
 
 git branch -M main
 
-git push -u origin main
+git push -f origin main        上传本地，覆盖仓库
 
 git clone 粘贴地址              将fork的仓库同步到本地
 
